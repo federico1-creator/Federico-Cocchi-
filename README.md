@@ -15,15 +15,8 @@ Immagine:
 
 vs.
 
-<img src="https://github.com/federico1-creator/Portfolio/blob/master/images/new_test.jpg" width="200" height="200" />
+'<img src="/images/new_test.jpg" width="150" height="100" />'
 
-<div style="width:150px; height:100px">
-![Kitten](/images/new_test.jpg)
-</div>
+vs.
 
-<img src="/images/new_test.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
-
-<img src="https://your-image-url.type" width="100" height="100">
-
-![](/images/new_test.jpg){:height="100px" width="150px"}
+![](/images/new_test.jpg){:height="500" width="750"}
