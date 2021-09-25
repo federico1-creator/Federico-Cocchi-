@@ -3,6 +3,8 @@
 
 link: https://federico1-creator.github.io/Portfolio/
 
+Momentaneamente: i link ai vari progetti non funzionano in quanto le varie repository sono private e non pubbliche.
+
 
 ## [Progetto 1: Machine learning](https://github.com/federico1-creator/ML)
 
@@ -13,4 +15,4 @@ Immagine:
 
 vs.
 
-<img src="/images/new_test.jpg" width="200" height="200" />
+<img src="https://github.com/federico1-creator/Portfolio/blob/master/images/new_test.jpg" width="200" height="200" />
