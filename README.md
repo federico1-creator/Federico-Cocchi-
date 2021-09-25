@@ -26,4 +26,4 @@ vs.
 
 <img src="https://your-image-url.type" width="100" height="100">
 
-![](/images/new_test.jpg){:height="36px" width="36px"}
+![](/images/new_test.jpg){:height="100px" width="150px"}
