@@ -19,4 +19,4 @@ vs.
 
 vs.
 
-![](/images/new_test.jpg){:height="500" width="750"}
+![](/images/new_test.jpg){:height="300" width="500"}
