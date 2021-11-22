@@ -15,7 +15,9 @@ Immagine:
 
 vs.
 
-'<img src="/images/new_test.jpg" width="150" height="100" />'
+<img style="float: right;" src="/images/new_test.jpg">
+
+Continue markdown text...
 
 vs.
 
