@@ -17,7 +17,7 @@ vs.
 
 <img style="float: right;" src="/images/persona 4.jpg">
 
-Continue markdown text...
+Continue markdown text
 
 vs.
 
