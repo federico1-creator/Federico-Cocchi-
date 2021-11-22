@@ -16,7 +16,7 @@ Immagine:
 vs.
 
 <div>
-<img style="float: right;" src="/images/persona 4.jpg">
+  <img style="float: right;" src="/images/persona 4.jpg">
 </div>
 
 Continue markdown text
