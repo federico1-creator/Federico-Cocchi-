@@ -1,7 +1,8 @@
-# Benvenuti nel mio portfolio: IN CORSO DI REALIZZAZIONE ... 
+# Benvenuti nel mio portfolio: WORK IN PROGRESS ... 
 
+![](images\union_jack.png){:height="50" width="50"}
 
-link: https://federico1-creator.github.io/Portfolio/
+English version of the Portfolio at the following link: https://federico1-creator.github.io/Portfolio/ 
 
 Momentaneamente: i link ai vari progetti non funzionano in quanto le varie repository sono private e non pubbliche.
 
