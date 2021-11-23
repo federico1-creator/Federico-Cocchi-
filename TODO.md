@@ -25,11 +25,11 @@ Ogni progetto segue la stessa struttura:
 6. IOT & 3D                       V
 7. DAI
 8. Progetto smart robotics
-INAFARM project                   V
+9. INAFARM project                   V
 
-- Relazioni:
-Relazione ML                      V
-Relazione competenze trasversali  V
+### Relazioni:
+- Relazione ML                      V
+- Relazione competenze trasversali  V
 
 
 [serie di progetti triennali, che sono su altri argomenti]
