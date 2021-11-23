@@ -17,9 +17,10 @@ vs.
 
 <div>
   <img style="float: right;" src="/images/persona 4.jpg">
+  Continue markdown text
 </div>
 
-Continue markdown text
+
 
 vs.
 
