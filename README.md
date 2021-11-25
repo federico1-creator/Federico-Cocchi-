@@ -23,7 +23,7 @@ Immagine:
 ## [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
 Tesi di laurea triennale - UNIBO 2020 
 
-![](images\image.png){:height="100" width="250"}
+![](/images\image.png){:height="100" width="250"}
 
 Il lavoro di tesi ha indagato metodologie di anomaly prediction di anomalie nel sistema HPC LEONARDO situato presso il CINECA.
 
@@ -38,7 +38,7 @@ Python - Tensorflow - Temporal series - Anomaly detection - High Performance Com
 ## [Design a new pipeline to make a Virtual Try-On from a deep learning perspective](https://github.com/federico1-creator/CV-CS)
 Progetto del corso Computer Vision & Cognitive Systems
 
-![](images\VITON.jpg){:height="100" width="250"}
+![](/images\VITON.jpg){:height="100" width="250"}
 
 ...
 
