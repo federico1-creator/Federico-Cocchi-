@@ -21,9 +21,9 @@ Immagine:
 ---
 
 ### [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
-Tesi di laurea triennale - UNIBO 2020 
+**Tesi di laurea triennale** - UNIBO 2020 
 
-![](/images/image.png){:height="125" width="300"}
+![](/images/image.png){:height="200" width="450"}
 
 Il lavoro di tesi ha indagato metodologie di anomaly prediction di anomalie nel sistema HPC LEONARDO situato presso il CINECA.
 Si sono utilizzate tecniche di *machine learning*, creando una rete convoluzionale per analizzare le serie temporali in input.
@@ -46,10 +46,10 @@ Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - I
 
 ---
 
-### [re-design dell'interfaccia di un trattore New Holland del gruppo *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
+### [Re-design dell'interfaccia di un trattore New Holland del gruppo *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
 Progetto per il corso **User Experience Design** - UNIMORE 2021 
 
-![](/images/uxd.jpg){:height="100" width="250"}
+![](/images/uxd.jpg){:height="200" width="400"}
 
 Seguendo le fasi del Design cycle inizialmente si sono fatte ricerche su competitor ed analizzati diversi fattori sugli utenti utilizzando tecniche come personas, interviste, analisi degli scenari di utilizzo. Creando una House of quality con requisiti e richieste.
 Una volta individuata l'idea si sono creati diversi concept (prima a bassa fedeltà e poi ad alta fedeltà) ed analisi ergonomiche della cabina con il nuovo design per analizzare l'interazione con l'utente. In conclusione si sono svolti dei test di usanìbilità con dei volontari, per valutare oggettivamente il risultato.
@@ -60,3 +60,12 @@ QFD - Analisi ergonomiche - Concept - XD -Jack - House of quality
 
 ### [Health detector](https://github.com/federico1-creator/HEALTH-DETECTOR)
 Progetto per il corso **IoT & 3D systems** - UNIMORE 2021 
+
+Il progetto ha realizzato un sistema di monitoraggio della salute dei *pazienti/utenti* valutando diversi dati acquisiti da sensori controllati con Arduino. Con tali dati si è implementata una gestione web intelligente per predire lo stato di salute del paziente, basandosi sull'intelligenza artificiale per studiare l'evoluzione delle serie temporali.
+Per facilitare la creazione di un possibile prototipo si è acquisito un modello 3D dell'oggetto tramite una nuvola di punti.
+Il lavoro ha come obiettivo quello di fornire strumenti più efficaci al paziente ed al medico per valutare lo stato di salute ed agire con operazione proattive in caso di necessità.
+
+Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Temporal series
+
+---
+### [Health detector](https://github.com/federico1-creator/HEALTH-DETECTOR)
