@@ -71,10 +71,10 @@ Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Tempor
 
 ---
 
-### [INAFARM](https://github.com/federico1-creator/HEALTH-DETECTOR)
+### [INAFARM](https://github.com/federico1-creator/INAFarm)
 Progetto per il corso **Innovation, development, entrepreneurship** presso **ALMALABOR**
 
-![](/images/uxd.jpg){:height="200" width="400"} #TODO
+![](/images/INAFARM.jpg){:height="200" width="400"}
 
 Il progetto si è basato su una forte multidisciplinarrietà del gruppo, che ha sviluppato una sua idea creativa fin dalle sue prime fasi di brain storming ed individuazione dell'idea per poi realizzare la realizzazione pratica, grazie alle attrezzature disponibili tramite il laboratorio ALMALABOR. Concludendo con la presentazione del risultato ottenuto.
 
@@ -82,11 +82,14 @@ Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
 
 ---
 
-### [INAFARM](https://github.com/federico1-creator/HEALTH-DETECTOR)
+### [Confezionamento yogurt](https://github.com/federico1-creator/Progetto-macchina-yogourt)
 Progetto per il corso di **Macchine automatiche**
 
-![](/images/uxd.jpg){:height="200" width="400"} #TODO
+![](/images/yogurt.jpg){:height="200" width="400"}
 
-Studio e dimensionamento di una macchina che posiziona il film di alluminio dei vasetti di yogurt. Valutazione di tutte le forze in atto e dei vari moti per individuare i vincoli di progetto e dimensionare i vari attuatori. Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt.
+Studio e dimensionamento di una macchina automatica per il confezionamento dello yogurt. 
+Valutazione di tutte le forze in atto e dei vari moti per individuare i vincoli di progetto e dimensionare i vari attuatori. 
+Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt, con lo scopo di 
+valutare le varie fasi di attuazione ed il sistema pneumatico necessario all'attuazione dei vari cilindri attuatori.
 
-R&D - Attuatori - Dimensionamenti - Team working
+Diagrammi delle fasi - Grafcet -  Attuatori - Dimensionamenti - Sistema pneumatico
