@@ -61,6 +61,8 @@ QFD - Analisi ergonomiche - Concept - XD -Jack - House of quality
 ### [Health detector](https://github.com/federico1-creator/HEALTH-DETECTOR)
 Progetto per il corso **IoT & 3D systems** - UNIMORE 2021 
 
+![](/images/IoT.jpg){:height="200" width="400"}
+
 Il progetto ha realizzato un sistema di monitoraggio della salute dei *pazienti/utenti* valutando diversi dati acquisiti da sensori controllati con Arduino. Con tali dati si è implementata una gestione web intelligente per predire lo stato di salute del paziente, basandosi sull'intelligenza artificiale per studiare l'evoluzione delle serie temporali.
 Per facilitare la creazione di un possibile prototipo si è acquisito un modello 3D dell'oggetto tramite una nuvola di punti.
 Il lavoro ha come obiettivo quello di fornire strumenti più efficaci al paziente ed al medico per valutare lo stato di salute ed agire con operazione proattive in caso di necessità.
@@ -68,4 +70,23 @@ Il lavoro ha come obiettivo quello di fornire strumenti più efficaci al pazient
 Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Temporal series
 
 ---
-### [Health detector](https://github.com/federico1-creator/HEALTH-DETECTOR)
+
+### [INAFARM](https://github.com/federico1-creator/HEALTH-DETECTOR)
+Progetto per il corso **Innovation, development, entrepreneurship** presso **ALMALABOR**
+
+![](/images/uxd.jpg){:height="200" width="400"} #TODO
+
+Il progetto si è basato su una forte multidisciplinarrietà del gruppo, che ha sviluppato una sua idea creativa fin dalle sue prime fasi di brain storming ed individuazione dell'idea per poi realizzare la realizzazione pratica, grazie alle attrezzature disponibili tramite il laboratorio ALMALABOR. Concludendo con la presentazione del risultato ottenuto.
+
+Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
+
+---
+
+### [INAFARM](https://github.com/federico1-creator/HEALTH-DETECTOR)
+Progetto per il corso di **Macchine automatiche**
+
+![](/images/uxd.jpg){:height="200" width="400"} #TODO
+
+Studio e dimensionamento di una macchina che posiziona il film di alluminio dei vasetti di yogurt. Valutazione di tutte le forze in atto e dei vari moti per individuare i vincoli di progetto e dimensionare i vari attuatori. Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt.
+
+R&D - Attuatori - Dimensionamenti - Team working

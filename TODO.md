@@ -19,15 +19,16 @@ Ogni progetto segue la stessa struttura:
 ### Progetti da inserire: (ordine da stabilire)
 1. Tesi LM ed Internship
 2. AI4A
-3. CVCS                           
-4. Tesi LT e Internship
-5. UXD                            
-6. IOT & 3D                       
+3. | CVCS
+4. | Tesi LT e Internship
+5. | UXD
+6. | IOT & 3D
 7. DAI
 8. Smart robotics
-9. INAFARM                  
-10. Imbottigliamento yogurt
+9. | INAFARM
+10. | Imbottigliamento yogurt
 
+---
 
 [serie di progetti triennali, che sono su altri argomenti]
 - Relazione ML
