@@ -6,20 +6,6 @@ English version of the Portfolio at the following [link](https://federico1-creat
 
 ---
 
-## [Progetto 0: Machine learning](https://github.com/federico1-creator/ML)
-
-Presentazione di un paper pubblicato su NeurIPS 2020.
-
-Immagine:
-![](/images/new_test.jpg){:height="300" width="500"}
-
-<div>
-  <img style="float: right;" src="/images/persona 4.jpg">
-  Continue markdown text
-</div>
-
----
-
 ### [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
 **Tesi di laurea triennale** - UNIBO 2020 
 
@@ -93,3 +79,32 @@ Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione
 valutare le varie fasi di attuazione ed il sistema pneumatico necessario all'attuazione dei vari cilindri attuatori.
 
 Diagrammi delle fasi - Grafcet -  Attuatori - Dimensionamenti - Sistema pneumatico
+
+---
+
+### [Hackathon on COVID-19](https://github.com/federico1-creator/covid-hackathon)
+Progetto per hackathon su COVID-19
+
+![](/images/final.jpg){:height="200" width="400"}
+
+<!-- The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates this dataset. Each one of the following section explains one step of our classification pipeline. -->
+
+L'obiettivo di questo lavoro è quello di trovare una maniera 'explainability' per definire se un paziente ha uno stato 'MILD' o 'SEVERE' rispetto alla patologia COVID-19; attraverso l'uso del nostro algoritmo.
+Nel paper viene descritto passo a passo l'architettura utilizzata per massimizzare explainability del modello per poter aiutare l'interpretazione del risultato.
+
+Semantic Segmentation - Pytorch - Classification - Decision tree - Medical images
+
+---
+
+### [Image captioning](https://github.com/federico1-creator/AI4A)
+Progetto per il corso di **AI for Automotive**
+
+![](/images/AI4A.jpg){:height="200" width="400"}
+
+Negli anni recenti i modelli Transformer-based hanno raggiunto lo SOTA per quanto riguarda i Sequence model. 
+Nel nostro caso abbiamo costruito un sistema per Image captioning.
+Considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale qullo che 'vede' nell'immagine.
+
+Tranformer - Attention operator - Image captioning - COCO - CIDEr - Multimodal - text - image - Sequence model
+
+---
