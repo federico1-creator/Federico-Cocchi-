@@ -18,8 +18,9 @@ Ogni progetto segue la stessa struttura:
 
 ### Progetti da inserire: (ordine da stabilire)
 1. Tesi LM ed Internship
-2. AI4A
+2. | AI4A
 3. | CVCS
+3b.| Hachkaton
 4. | Tesi LT e Internship
 5. | UXD
 6. | IOT & 3D
