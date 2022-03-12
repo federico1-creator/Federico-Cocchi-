@@ -13,7 +13,7 @@ Progetto per il corso di **AI for Automotive**
 
 Negli anni recenti i modelli Transformer-based hanno raggiunto lo SOTA per quanto riguarda i Sequence model. 
 Nel nostro caso abbiamo costruito un sistema per Image captioning.
-Considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale qullo che 'vede' nell'immagine.
+Considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale quello che 'vede' nell'immagine.
 
 Tranformer - Attention operator - Image captioning - COCO - CIDEr - Multimodal - text - image - Sequence model
 
