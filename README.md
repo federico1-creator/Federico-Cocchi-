@@ -7,13 +7,13 @@ English version of the Portfolio at the following [link](https://federico1-creat
 ---
 
 ### [Image captioning](https://github.com/federico1-creator/AI4A)
-Progetto per il corso di **AI for Automotive**
+Progetto per il corso di **AI for Automotive** - UNIMORE 2022
 
 ![](/images/AI4A.jpg){:height="200" width="400"}
 
 Negli anni recenti i modelli Transformer-based hanno raggiunto lo SOTA per quanto riguarda i Sequence model. 
-Nel nostro caso abbiamo costruito un sistema per Image captioning.
-Considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale quello che 'vede' nell'immagine.
+Nel nostro caso abbiamo costruito un sistema per Image captioning che 
+considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale quello che 'vede' nell'immagine.
 
 Tranformer - Attention operator - Image captioning - COCO - CIDEr - Multimodal - text - image - Sequence model
 
@@ -25,7 +25,7 @@ Progetto per il corso **Computer Vision & Cognitive Systems** - UNIMORE 2021
 ![](/images/VITON.jpg){:height="150" width="350"}
 
 Creazione di una pipeline che permetta di creare un *camerino virtuale* per simulare la prova di nuovi abiti. Per questo progetto è stato utilizzato il dataset creato con la collaborazione di *Yoox*. 
-In quest'ottica è stato creato anche un sistema di *retrieval* che suggerisce all'utilizzatore i vestiti più simili a quelli indossati, rispetto a quelli in catalogo.
+In quest'ottica è stato implementato anche un sistema di *retrieval* che suggerisce all'utilizzatore i vestiti del catalogo più simili a quelli indossati.
 Per creare la *trasformazione geometrica* che permette di simulare l'indossamento del nuovo abito si è utilizzata una rete neurale che permette di imparare la migliore trasformazione.  
 
 Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - Image processing - Geometric transform
@@ -39,8 +39,8 @@ Progetto per hackathon su COVID-19
 
 <!-- The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates this dataset. Each one of the following section explains one step of our classification pipeline. -->
 
-L'obiettivo di questo lavoro è quello di trovare una maniera 'explainability' per definire se un paziente ha uno stato 'MILD' o 'SEVERE' rispetto alla patologia COVID-19; attraverso l'uso del nostro algoritmo.
-Nel paper viene descritto passo a passo l'architettura utilizzata per massimizzare explainability del modello per poter aiutare l'interpretazione del risultato.
+L'obiettivo di questo lavoro è quello di trovare una modalità 'explainability' per definire se un paziente ha uno stato 'MILD' o 'SEVERE' rispetto alla patologia COVID-19; attraverso l'uso del nostro algoritmo.
+Nel paper viene descritta passo a passo l'architettura utilizzata per massimizzare la explainability del modello per poter aiutare l'interpretazione del risultato.
 
 Semantic Segmentation - Pytorch - Classification - Decision tree - Medical images
 
@@ -103,7 +103,7 @@ Progetto per il corso di **Macchine automatiche**
 
 Studio e dimensionamento di una macchina automatica per il confezionamento dello yogurt. 
 Valutazione di tutte le forze in atto e dei vari moti per individuare i vincoli di progetto e dimensionare i vari attuatori. 
-Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt, con lo scopo di 
+Creazione di un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt, con lo scopo di 
 valutare le varie fasi di attuazione ed il sistema pneumatico necessario all'attuazione dei vari cilindri attuatori.
 
 Diagrammi delle fasi - Grafcet -  Attuatori - Dimensionamenti - Sistema pneumatico
