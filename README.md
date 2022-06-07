@@ -6,6 +6,10 @@ English version of the Portfolio at the following [link](https://federico1-creat
 
 ---
 
+Lista dei seminari frequentati al seguente [link](https://github.com/federico1-creator/seminars_followed/blob/main/README.md)
+
+---
+
 ### [Image captioning](https://github.com/federico1-creator/AI4A)
 Progetto per il corso di **AI for Automotive** - UNIMORE 2022
 
