@@ -47,7 +47,6 @@ Progetto per il corso **Distributed Artificial Intelligence** - UNIMORE 2021
 
 Ho indagato l'utilizzo di singoli agenti model-free in vari environment, da quelli più semplici a quelli più complessi.
 Inizialmente l'agente non conosce l'ambiente in cui opera, ma durante l'allenamento impara che azioni (policy) eseguire per completare correttamente il task.
-
 Gli algoritmi utilizzati sono stati il Q-learning e DQN.
 Ho anche paragonato tra loro i risultati ottenuti, considerando anche la modifica di alcuni hyperparameters.
 
