@@ -39,7 +39,7 @@ Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - I
 ### [Reinforcement Learning with a single agent model free](https://github.com/federico1-creator/Distributed-AI)
 Progetto per il corso **Distributed Artificial Intelligence** - UNIMORE 2021
 
-![](https://github.com/federico1-creator/Distributed-AI/blob/main/data/exphigh_plus_benchmark.gif){:height="150" width="350"}
+![](/images/exphigh_plus_benchmark.gif){:height="150" width="350"}
 
 Ho indagato l'utilizzo di singoli agenti model-free in vari environment, da quelli più semplici a quelli più complessi.
 Inizialmente l'agente non conosce l'ambiente in cui opera, ma durante l'allenamento impara che azioni (policy) eseguire per completare correttamente il task.
