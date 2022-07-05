@@ -72,7 +72,7 @@ Semantic Segmentation - Pytorch - Classification - Decision tree - Medical image
 ### [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
 **Tesi di laurea triennale** - UNIBO 2020 
 
-![](/images/image.png){:height="200" width="450"}
+![](/images/prova_tesi_L.jpg){:height="200" width="450"}
 
 Il lavoro di tesi ha indagato metodologie di anomaly prediction di anomalie nel sistema HPC LEONARDO situato presso il CINECA.
 Si sono utilizzate tecniche di *machine learning*, creando una rete convoluzionale per analizzare le serie temporali in input.
