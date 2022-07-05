@@ -39,7 +39,7 @@ Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - I
 ### [Reinforcement Learning with a single agent model free](https://github.com/federico1-creator/Distributed-AI)
 Progetto per il corso **Distributed Artificial Intelligence** - UNIMORE 2021
 
-![](/images/VITON.jpg){:height="150" width="350"}
+![](https://github.com/federico1-creator/Distributed-AI/blob/main/data/exphigh_plus_benchmark.gif){:height="150" width="350"}
 
 ---
 
