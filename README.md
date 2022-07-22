@@ -68,6 +68,19 @@ Semantic Segmentation - Pytorch - Classification - Decision tree - Medical image
 
 ---
 
+### [CoViRo: control robot through a hand gesture recognition system](https://github.com/federico1-creator/gesture_robot)
+Progetto per il corso **Smart Robotics** - UNIMORE 2022
+
+![](/images/SR.jpg){:height="200" width="400"}
+
+Il lavoro di gruppo a portato alla realizzazione di una simulazione del robot franka, controllato senza l'uso del controller ma tramite gesti.
+Per far ciò si è realizzato un sistema di visione capace di classificare le diverse label.
+Sfruttando i keypoints ed una semplice Neural Network, siamo stati in grado di far ciò con un'elevata accuray (96%) ed in real time.
+Con le comunicazione di ROS si sono poi create le demo per mostrare le potenzialità del sistema implementato.
+Controllando il robot con MoveIt in cpp.
+
+ROS - Python - cpp - RViz - MoveIt - Pytorch - MediaPipe - Franka robot
+
 ### [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
 **Tesi di laurea triennale** - UNIBO 2020 
 
