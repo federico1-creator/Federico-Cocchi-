@@ -81,6 +81,8 @@ Controllando il robot con MoveIt in cpp.
 
 ROS - Python - cpp - RViz - MoveIt - Pytorch - MediaPipe - Franka robot
 
+---
+
 ### [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
 **Tesi di laurea triennale** - UNIBO 2020 
 
