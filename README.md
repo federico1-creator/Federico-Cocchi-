@@ -15,9 +15,9 @@ Progetto per il corso di **AI for Automotive** - UNIMORE 2022
 
 ![](/images/AI4A.jpg){:height="200" width="400"}
 
-Negli anni recenti i modelli Transformer-based hanno raggiunto lo SOTA per quanto riguarda i Sequence model. 
-Nel nostro caso abbiamo costruito un sistema per Image captioning che 
-considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale quello che 'vede' nell'immagine.
+Negli anni recenti i modelli Transformer-based hanno raggiunto lo stato dell'arte per quanto riguarda i Sequence model. 
+In questo progetto si è implementato un sistema per Image captioning che 
+considera come input immagini e testo (multimodal) per descrive attraverso il linguaggio naturale il contenuto dell'immagine.
 
 Tranformer - Attention operator - Image captioning - COCO - CIDEr - Multimodal - text - image - Sequence model
 
@@ -30,9 +30,9 @@ Progetto per il corso **Computer Vision & Cognitive Systems** - UNIMORE 2021
 
 Creazione di una pipeline che permetta di creare un *camerino virtuale* per simulare la prova di nuovi abiti. Per questo progetto è stato utilizzato il dataset creato con la collaborazione di *Yoox*. 
 In quest'ottica è stato implementato anche un sistema di *retrieval* che suggerisce all'utilizzatore i vestiti del catalogo più simili a quelli indossati.
-Per creare la *trasformazione geometrica* che permette di simulare l'indossamento del nuovo abito si è utilizzata una rete neurale che permette di imparare la migliore trasformazione.  
+Per creare la *trasformazione geometrica* che permette di simulare l'indossamento del nuovo abito si è utilizzata una rete neurale che permette di imparare la migliore trasformazione possibile.  
 
-Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - Image processing - Geometric transform
+Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - Image processing - Geometric transformation
 
 ---
 
@@ -48,9 +48,9 @@ Progetto per il corso **Distributed Artificial Intelligence** - UNIMORE 2021
 Ho indagato l'utilizzo di singoli agenti model-free in vari environment, da quelli più semplici a quelli più complessi.
 Inizialmente l'agente non conosce l'ambiente in cui opera, ma durante l'allenamento impara che azioni (policy) eseguire per completare correttamente il task.
 Gli algoritmi utilizzati sono stati il Q-learning e DQN.
-Ho anche paragonato tra loro i risultati ottenuti, considerando anche la modifica di alcuni hyperparameters.
+Ho anche paragonato tra loro i risultati ottenuti, considerando diversi hyperparameters.
 
-Python - Gym - DQN - Q-learning - wandb - Numpy
+Python - Gym - DQN - Q-learning - wandb - numpy
 
 ---
 
@@ -61,8 +61,8 @@ Progetto per hackathon su COVID-19
 
 <!-- The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates this dataset. Each one of the following section explains one step of our classification pipeline. -->
 
-L'obiettivo di questo lavoro è quello di trovare una modalità 'explainability' per definire se un paziente ha uno stato 'MILD' o 'SEVERE' rispetto alla patologia COVID-19; attraverso l'uso del nostro algoritmo.
-Nel paper viene descritta passo a passo l'architettura utilizzata per massimizzare la explainability del modello per poter aiutare l'interpretazione del risultato.
+L'obiettivo di questo lavoro è quello di trovare una modalità 'explainable' per definire se un paziente ha uno stato 'MILD' o 'SEVERE' rispetto alla patologia COVID-19; attraverso l'uso dell'algoritmo.
+Nel paper viene descritta passo a passo l'architettura utilizzata per massimizzare la explainability del modello per poter aiutare l'operatore sanitario nell'interpretazione del risultato.
 
 Semantic Segmentation - Pytorch - Classification - Decision tree - Medical images
 
@@ -73,11 +73,12 @@ Progetto per il corso **Smart Robotics** - UNIMORE 2022
 
 ![](/images/SR.jpg){:height="200" width="400"}
 
-Il lavoro di gruppo a portato alla realizzazione di una simulazione del robot franka, controllato senza l'uso del controller ma tramite gesti.
-Per far ciò si è realizzato un sistema di visione capace di classificare le diverse label.
+Tramite il lavoro di gruppo si è realizzata una simulazione del robot franka, controllato senza l'uso del controller ma tramite gesti.
+Per far ciò si è realizzato un sistema di visione capace di classificare le diverse label indicate delle mani.
 Sfruttando i keypoints ed una semplice Neural Network, siamo stati in grado di far ciò con un'elevata accuray (96%) ed in real time.
+Questi due risultati (accuracy - real time) sono particolarmente importanti per una migliore interazione ed esperienza utente con il robot. 
 Con le comunicazione di ROS si sono poi create le demo per mostrare le potenzialità del sistema implementato.
-Controllando il robot con MoveIt in cpp.
+Controllando il robot con MoveIt ed il linguaggio cpp.
 
 ROS - Python - cpp - RViz - MoveIt - Pytorch - MediaPipe - Franka robot
 
@@ -90,7 +91,7 @@ ROS - Python - cpp - RViz - MoveIt - Pytorch - MediaPipe - Franka robot
 
 Il lavoro di tesi ha indagato metodologie di anomaly prediction di anomalie nel sistema HPC LEONARDO situato presso il CINECA.
 Si sono utilizzate tecniche di *machine learning*, creando una rete convoluzionale per analizzare le serie temporali in input.
-Per migliorare le performance del sistema, si sono utilizzate tecniche di *Data Augmentation*, visto l'elevato sbilanciamento nel dataset tra esempi corretti ed fault del sistema. 
+Per migliorare le performance del sistema, si sono utilizzate anche tecniche di *data augmentation*, per ovviare all'elevato sbilanciamento nel dataset tra esempi corretti ed fault del sistema. 
 
 Python - Tensorflow - Temporal series - Anomaly detection - High Performance Computing - Machine learning - Data augmentation
 
@@ -103,7 +104,7 @@ Progetto per il corso **IoT & 3D systems** - UNIMORE 2021
 
 Il progetto ha realizzato un sistema di monitoraggio della salute dei *pazienti/utenti* valutando diversi dati acquisiti da sensori controllati con Arduino. Con tali dati si è implementata una gestione web intelligente per predire lo stato di salute del paziente, basandosi sull'intelligenza artificiale per studiare l'evoluzione delle serie temporali.
 Per facilitare la creazione di un possibile prototipo si è acquisito un modello 3D dell'oggetto tramite una nuvola di punti.
-Il lavoro ha come obiettivo quello di fornire strumenti più efficaci al paziente ed al medico per valutare lo stato di salute ed agire con operazione proattive in caso di necessità.
+Il lavoro ha come obiettivo quello di fornire strumenti più efficaci al paziente ed al medico per valutare lo stato di salute ed agire con operazioni proattive in caso di necessità.
 
 Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Temporal series
 
@@ -114,19 +115,21 @@ Progetto per il corso **User Experience Design** - UNIMORE 2021
 
 ![](/images/uxd.jpg){:height="200" width="400"}
 
-Seguendo le fasi del Design cycle inizialmente si sono fatte ricerche su competitor ed analizzati diversi fattori sugli utenti utilizzando tecniche come personas, interviste, analisi degli scenari di utilizzo. Creando una House of quality con requisiti e richieste.
-Una volta individuata l'idea si sono creati diversi concept (prima a bassa fedeltà e poi ad alta fedeltà) ed analisi ergonomiche della cabina con il nuovo design per analizzare l'interazione con l'utente. In conclusione si sono svolti dei test di usanìbilità con dei volontari, per valutare oggettivamente il risultato.
+Seguendo le fasi del *design cycle* inizialmente si sono fatte ricerche sui competitor ed analizzati diversi fattori sugli utenti utilizzando tecniche come personas, interviste, analisi degli scenari di utilizzo. Creando poi una House of quality con requisiti e richieste.
+Una volta individuata l'idea si sono creati diversi concept (prima a bassa fedeltà e poi ad alta fedeltà) su cui eseguire delle analisi ergonomiche della cabina con il nuovo design per analizzare l'interazione con l'utente. In conclusione si sono svolti dei test di usabilità con dei volontari, per valutare oggettivamente il risultato del nuovo design.
 
 QFD - Analisi ergonomiche - Concept - XD -Jack - House of quality 
 
 ---
 
 ### [INAFARM](https://github.com/federico1-creator/INAFarm)
-Progetto per il corso **Innovation, development, entrepreneurship** presso **ALMALABOR**
+Progetto per il corso **Innovation, development, entrepreneurship** presso **Almalabor**
 
 ![](/images/INAFARM.jpg){:height="200" width="400"}
 
-Il progetto si è basato su una forte multidisciplinarrietà del gruppo, che ha sviluppato una sua idea creativa fin dalle sue prime fasi di brain storming ed individuazione dell'idea per poi realizzare la realizzazione pratica, grazie alle attrezzature disponibili tramite il laboratorio ALMALABOR. Concludendo con la presentazione del risultato ottenuto.
+Il progetto si è basato su una forte multidisciplinarietà del gruppo, che ha sviluppato una sua idea creativa fin dalle sue prime fasi di brain storming.
+Per poi individuare l'idea e realizzarla tramite le attrezzature disponibili tramite il laboratorio Almalabor. 
+Concludendo poi l'esperienza progettuale con la presentazione del risultato ottenuto.
 
 Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
 
